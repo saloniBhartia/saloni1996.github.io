@@ -1162,17 +1162,23 @@ ul.portfolio-image li .desc{
 .facebook a:after{
   background-color: #527bbb;
 }
-.twitter{
+.github{
   background: #ABABAB;
 }
-.twitter a:after{
-  background-color: #77ccf1;
+.github a:after{
+  background-color: #000000;
 }
 .gplus{
   background: #d8d8d8;
 }
 .gplus a:after{
   background: #dd4b39;
+}
+.Linkedin{
+  background: #d8d8d8;
+}
+.Linkedin a:after{
+  background: #2B65EC;
 }
 
 .footer-bottom{
