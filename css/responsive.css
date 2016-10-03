@@ -10,13 +10,6 @@
 	}
 	.menu-wrap{width: 220px;}
 	.mouse-icon{bottom: 5px;}
-
-	/*---- portfolio -----*/
-	ul.portfolio-image li{
-		width: 100%;
-		padding-top: 95%;
-	}
-
 	/*---- blog -----*/
 	.grid-item {
     width: 100% !important;
