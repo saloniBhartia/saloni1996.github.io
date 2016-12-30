@@ -2,4 +2,4 @@
 =========================
 Visit [Profile Site](http://saloni1996.github.io)
 
-### It
+### It is a profile site, based on JavaScript, HTML, and CSS.
